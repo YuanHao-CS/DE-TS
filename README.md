@@ -12,6 +12,8 @@ This platform does not directly contain any open source code or open source data
 
 # Support
 
+MLNST provide the DE-TS manual in English in PDF format. In addition, MLNST also provide an additional Chinese version of the manual for visitors from China. When you encounter a problem in the process of using this platform, please refer to the manual and try to solve it yourself, or contact us by email.
+
 If you have any comments or suggestions, please contact jiangyuanhao@stu.just.edu.cn (Yuanhao Jiang). Finally, thank you again for using this platform.
 
 # Acknowledge
