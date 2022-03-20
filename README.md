@@ -8,7 +8,7 @@ Thank you for using the DE-TS developed under the auspices of Jiangsu University
 
 The Copyright of the DE-TS belongs to the MLNST group. You are free to use the DE-TS for research purposes. Part of the code in this platform is written based on the author's understanding of the paper, and the author is not responsible for any consequences of the user's use of the code. Papers containing data generated using this platform should declare the use of the DE-TS, and cite the corresponding references correctly.
 
-This platform does not directly contain any open source code or open source data. However, the operation of this platform depends on other supporting software. This platform can run normally only in the software environment where MATLAB and PlatEMO are installed (the recommended software environment is MATLAB R2020b and PlatEMO v3.3). When you use this platform with other software, you also need to comply with the prerequisites and relevant requirements of other software. 
+This platform does not directly contain any open source code or open source data. However, the operation of this platform depends on other supporting software. This platform can run normally only in the software environment where MATLAB and PlatEMO are installed (the recommended software environment is MATLAB R2020b and PlatEMO v3.3). When you use this platform with other software, you also need to comply with the prerequisites and relevant requirements of other software. You can download PlatEMO at https://github.com/BIMK/PlatEMO.
 
 # Support
 
